@@ -5,19 +5,19 @@ function Experience() {
   const experiences = [
     {
       period: "Nov 2024 — Present",
-      role: "Senior Engineer • Errandman",
+      role: "Senior Engineer ",
       company: "Errandman",
       points: [
-        "Built and maintained features for a bike ride-booking platform.",
+        "Maintained features for a bike ride-booking platform.",
         "Integrated backend APIs and worked closely with the existing codebase.",
         "Improved and maintained the React Native application for smooth performance.",
-        "Helped migrate parts of the mobile application from JavaScript to TypeScript.",
+        " Migrated parts of the mobile application from JavaScript to TypeScript.",
       ],
     },
     {
       period: "Jun 2024 — Jul 2025",
       role: "Frontend Engineer • Telygence AI",
-      company: "Various Projects",
+      company: "Telygence AI",
       points: [
         "Worked as the main frontend developer on an AI-focused startup product.",
         "Built responsive and interactive interfaces using React and TypeScript.",
