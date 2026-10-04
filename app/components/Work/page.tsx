@@ -12,31 +12,35 @@ function Work() {
       live: "https://my-text-editor-gamma.vercel.app/",
       featured: true,
     },
+
     {
-      title: "Text Editor",
+      title: "Student Academic Advising System",
       description:
-        "A modern rich-text editor built with React and TypeScript, supporting multiple content blocks, formatting, alignment and undo/redo functionality.",
-      tech: ["React", "TypeScript", "Tailwind CSS", "Zustand"],
+        "A web-based academic advising platform designed to reduce the need for physical meetings between students and academic advisers by providing accessible academic information and student-adviser communication.",
+      tech: ["HTML", "CSS", "JavaScript"],
       github: "#",
-      live: "https://my-text-editor-gamma.vercel.app/",
+      live: "https://student-advising-system.vercel.app/html/index.html",
       featured: true,
     },
+
     {
-      title: "Text Editor",
+      title: "Telygence AI",
+
       description:
-        "A modern rich-text editor built with React and TypeScript, supporting multiple content blocks, formatting, alignment and undo/redo functionality.",
-      tech: ["React", "TypeScript", "Tailwind CSS", "Zustand"],
+        "An AI-focused web application where I worked as the main frontend developer, building responsive user interfaces and implementing frontend features with React and TypeScript.",
+      tech: ["JavaScript", "Tailwind CSS"],
       github: "#",
-      live: "#",
+      live: "https://telygence-one.vercel.app/sign-in?redirect_url=%2F",
       featured: true,
     },
+
     {
-      title: "Movie App",
+      title: "Fine Movies",
       description:
         "A responsive movie discovery application for browsing movies, viewing details and exploring popular content.",
-      tech: ["React", "JavaScript", "CSS", "API"],
+      tech: ["React", "TypeScript", "Tailwind CSS", "API"],
       github: "#",
-      live: "#",
+      live: "https://movie-app-self-sigma.vercel.app",
       featured: false,
     },
   ];

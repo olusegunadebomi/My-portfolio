@@ -1,5 +1,5 @@
 import {
-  LuDownload,
+  // LuDownload,
   LuGithub,
   LuLinkedin,
   LuMail,
@@ -7,7 +7,7 @@ import {
   LuSend,
 } from "react-icons/lu";
 import { FaXTwitter } from "react-icons/fa6";
-import { SiHashnode } from "react-icons/si";
+// import { SiHashnode } from "react-icons/si";
 
 function Contact() {
   return (

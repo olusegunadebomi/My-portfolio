@@ -4,31 +4,25 @@ import { LuTerminal } from "react-icons/lu";
 function Experience() {
   const experiences = [
     {
-      period: "2024 — Present",
-      role: "Senior Engineer",
+      period: "Nov 2024 — Present",
+      role: "Senior Engineer • Errandman",
       company: "Errandman",
       points: [
-        "Built and maintained applications",
-        "Worked with cross-functional teams",
-        "Improved performance and scalability",
+        "Built and maintained features for a bike ride-booking platform.",
+        "Integrated backend APIs and worked closely with the existing codebase.",
+        "Improved and maintained the React Native application for smooth performance.",
+        "Helped migrate parts of the mobile application from JavaScript to TypeScript.",
       ],
     },
     {
-      period: "2023 — 2024",
-      role: "Frontend Engineer",
-      company: "Startup (2)",
-      points: [
-        "Built a Next.js product (not yet launched)",
-        "Built a React Native app (not yet launched)",
-      ],
-    },
-    {
-      period: "2020 — 2023",
-      role: "Frontend Developer",
+      period: "Jun 2024 — Jul 2025",
+      role: "Frontend Engineer • Telygence AI",
       company: "Various Projects",
       points: [
-        "Developed responsive, interactive and modern web",
-        "Converted JavaScript to TypeScript in a bike app",
+        "Worked as the main frontend developer on an AI-focused startup product.",
+        "Built responsive and interactive interfaces using React and TypeScript.",
+        "Collaborated with the team to develop and refine product features.",
+        "Contributed to a product that was developed but ultimately not launched.",
       ],
     },
   ];
