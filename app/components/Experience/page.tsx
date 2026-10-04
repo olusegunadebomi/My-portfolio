@@ -17,7 +17,7 @@ function Experience() {
     {
       period: "Jun 2024 — Jul 2025",
       role: "Frontend Engineer • Telygence AI",
-      company: "Various Projects",
+      company: "Telygence AI",
       points: [
         "Worked as the main frontend developer on an AI-focused startup product.",
         "Built responsive and interactive interfaces using React and TypeScript.",
