@@ -5,7 +5,7 @@ function Experience() {
   const experiences = [
     {
       period: "Nov 2024 — Present",
-      role: "Senior Engineer • Errandman",
+      role: "Senior Engineer",
       company: "Errandman",
       points: [
         "Built and maintained features for a bike ride-booking platform.",
@@ -16,7 +16,7 @@ function Experience() {
     },
     {
       period: "Jun 2024 — Jul 2025",
-      role: "Frontend Engineer • Telygence AI",
+      role: "Frontend Engineer ",
       company: "Telygence AI",
       points: [
         "Worked as the main frontend developer on an AI-focused startup product.",
